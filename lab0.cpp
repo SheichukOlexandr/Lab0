@@ -1,4 +1,5 @@
-﻿#include <iostream>
+//Приклад роботи програми мовою C++
+#include <iostream>
 #include <windows.h>
 #include <CONio.h>
 
